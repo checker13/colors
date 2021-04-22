@@ -53,6 +53,15 @@
         "hex": "#0F0"
       }
     },
+    {
+      "color": "sky",
+      "category": "hue",
+      "type": "secondary",
+      "code": {
+        "rgba": [0,255,225,1],
+        "hex": "#0F0"
+      }
+    },
   ]
 }
 
